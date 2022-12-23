@@ -18,5 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   app.py
+   API_naratec
+   API_onpremise
+   Scrapper
