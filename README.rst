@@ -187,7 +187,6 @@ thanks to ahead of the curve graph and intereactivity.
 
    <p align="right">
 
-(back to top)
 
 .. raw:: html
 
@@ -203,7 +202,6 @@ Built With
 
    <p align="right">
 
-(back to top)
 
 .. raw:: html
 
@@ -257,7 +255,6 @@ Installation
 
    <p align="right">
 
-(back to top)
 
 .. raw:: html
 
@@ -284,7 +281,6 @@ full list of proposed features (and known issues).
 
    <p align="right">
 
-(back to top)
 
 .. raw:: html
 
@@ -304,7 +300,6 @@ Totalenergies.
 
    <p align="right">
 
-(back to top)
 
 .. raw:: html
 
@@ -324,7 +319,6 @@ adam.wecker@external.totalenergies.com
 
    <p align="right">
 
-(back to top)
 
 .. raw:: html
 
@@ -346,7 +340,7 @@ Acknowledgments
 
    <p align="right">
 
-(back to top)
+
 
 .. raw:: html
 
